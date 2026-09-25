@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkars94
 - 👀 I’m interested in Python, Automation , dockers, Cloud
-- 🌱 I’m currently learning Docker, teraform
+- 🌱 I’m currently learning Docker, terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on omkar94@ymail.com
 
